@@ -1,0 +1,7 @@
+---- qbsp / TyrUtils v0.15 ----
+Input file: ne_city.map
+Output file: ne_city.bsp
+
+---- LoadMapFile ----
+************ ERROR ************
+Failed to open ne_city.map: No such file or directory

@@ -1,0 +1,73 @@
+---- qbsp / TyrUtils v0.15 ----
+Input file: quoth1.map
+Output file: quoth1.bsp
+
+---- LoadMapFile ----
+*** WARNING 06: No info_player_deathmatch entities in level
+         2568 faces
+          442 brushes
+           67 entities
+           13 unique texnames
+           34 texinfo
+
+Opened WAD: D:/Games/GOG/Quake/id1/Q.wad
+Processing hull 0...
+---- Brush_LoadEntity ----
+          424 brushes
+---- CSGFaces ----
+         2462 brushfaces
+         1850 csgfaces
+         1503 mergedfaces
+---- SolidBSP ----
+         2423 split nodes
+          990 solid leafs
+         1428 empty leafs
+            6 water leafs
+         4117 leaffaces
+         3788 nodefaces
+---- Portalize ----
+         1434 vis leafs
+         1434 vis clusters
+         4351 vis portals
+---- FillOutside ----
+          621 outleafs
+---- MergeAll ----
+         1319 mergefaces
+---- SolidBSP ----
+          800 split nodes
+          411 solid leafs
+          386 empty leafs
+            4 water leafs
+         2008 leaffaces
+         1592 nodefaces
+---- Portalize ----
+          390 vis leafs
+          390 vis clusters
+         1226 vis portals
+---- Tjunc ----
+         1714 world edges
+         5703 edge points
+         1062 edges added by tjunctions
+            0 faces added by tjunctions
+---- MakeFaceEdges ----
+---- GrowRegions ----
+Processing hull 1...
+Processing hull 2...
+---- WriteBSPFile ----
+          874 planes            17480
+         2174 vertexes          26088
+          848 nodes             20352
+           34 texinfo            1360
+         1728 faces             34560
+         1863 clipnodes         14904
+          439 leafs             12292
+         2144 marksurfaces       4288
+         7880 surfedges         31520
+         3961 edges             15844
+           20 textures         195556
+              lightdata             0
+              visdata               0
+              entdata            4721
+
+0.439 seconds elapsed
+Peak memory usage: 11326219 (10.8M)
