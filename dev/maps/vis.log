@@ -2,15 +2,5 @@
 running with 8 threads
 testlevel = 4
 BSP is version 29
-   390 leafs
-  1226 portals
-Calculating Base Vis:
-0....1....2....3....4....5....6....7....8....9....
-Calculating Full Vis:
-0....1....2....3....4....5....6....7....8....9....
-average leafs visible: 119
-c_noclip: 0
-c_chains: 2406660
-visdatasize:8492  compressed from 19110
-Writing BSP version 29
-  2.0 seconds elapsed
+LoadPortals: couldn't read quoth1.prt
+No vising performed.
