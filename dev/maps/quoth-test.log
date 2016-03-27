@@ -1,12 +1,12 @@
 ---- qbsp / TyrUtils v0.15 ----
-Input file: quoth1b.map
-Output file: quoth1b.bsp
+Input file: quoth-test.map
+Output file: quoth-test.bsp
 
 ---- LoadMapFile ----
 *** WARNING 06: No info_player_deathmatch entities in level
-         6245 faces
-         1057 brushes
-          233 entities
+         6239 faces
+         1056 brushes
+          232 entities
            18 unique texnames
            59 texinfo
 
@@ -55,19 +55,19 @@ Processing hull 1...
 Processing hull 2...
 ---- WriteBSPFile ----
          1604 planes            32080
-         5898 vertexes          70776
-         2430 nodes             58320
+         5890 vertexes          70680
+         2424 nodes             58176
            59 texinfo            2360
-         4452 faces             89040
-         5532 clipnodes         44256
-         1379 leafs             38612
-         5177 marksurfaces      10354
-        20427 surfedges         81708
-        10440 edges             41760
+         4446 faces             88920
+         5520 clipnodes         44160
+         1373 leafs             38444
+         5171 marksurfaces      10342
+        20403 surfedges         81612
+        10428 edges             41712
            25 textures         236992
               lightdata             0
               visdata               0
-              entdata           17757
+              entdata           17749
 
-1.099 seconds elapsed
-Peak memory usage: 30860362 (29.4M)
+1.106 seconds elapsed
+Peak memory usage: 30847708 (29.4M)

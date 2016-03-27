@@ -1,11 +1,11 @@
 ---- light / TyrUtils v0.15 ----
 running with 8 threads
 BSP is version 29
-208 entities read, 90 are lights.
+209 entities read, 91 are lights.
 0....1....2....3....4....5....6....7....8....9....
 Lighting Completed.
 
-lightdatasize: 96406
-1 switchable light styles
+lightdatasize: 98872
+2 switchable light styles
 Writing BSP version 29
   0.0 seconds elapsed
