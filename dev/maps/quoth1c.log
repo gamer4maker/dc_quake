@@ -1,0 +1,73 @@
+---- qbsp / TyrUtils v0.15 ----
+Input file: quoth1c.map
+Output file: quoth1c.bsp
+
+---- LoadMapFile ----
+*** WARNING 06: No info_player_deathmatch entities in level
+         6241 faces
+         1056 brushes
+          232 entities
+           19 unique texnames
+           61 texinfo
+
+Opened WAD: D:/Games/GOG/Quake/id1/Q.wad
+Processing hull 0...
+---- Brush_LoadEntity ----
+          908 brushes
+---- CSGFaces ----
+         5364 brushfaces
+         4435 csgfaces
+         3895 mergedfaces
+---- SolidBSP ----
+         6081 split nodes
+         2606 solid leafs
+         3444 empty leafs
+           32 water leafs
+        10234 leaffaces
+         9707 nodefaces
+---- Portalize ----
+         3476 vis leafs
+         3476 vis clusters
+        10599 vis portals
+---- FillOutside ----
+         1748 outleafs
+---- MergeAll ----
+         2855 mergefaces
+---- SolidBSP ----
+         1734 split nodes
+          950 solid leafs
+          776 empty leafs
+            9 water leafs
+         4243 leaffaces
+         3555 nodefaces
+---- Portalize ----
+          785 vis leafs
+          785 vis clusters
+         2289 vis portals
+---- Tjunc ----
+         3688 world edges
+        12876 edge points
+         2762 edges added by tjunctions
+            0 faces added by tjunctions
+---- MakeFaceEdges ----
+---- GrowRegions ----
+Processing hull 1...
+Processing hull 2...
+---- WriteBSPFile ----
+         1618 planes            32360
+         5922 vertexes          71064
+         2420 nodes             58080
+           61 texinfo            2440
+         4465 faces             89300
+         5574 clipnodes         44592
+         1390 leafs             38920
+         5204 marksurfaces      10408
+        20489 surfedges         81956
+        10471 edges             41884
+           26 textures         238396
+              lightdata             0
+              visdata               0
+              entdata           17708
+
+1.161 seconds elapsed
+Peak memory usage: 30906866 (29.5M)
