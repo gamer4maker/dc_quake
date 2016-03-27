@@ -1,4 +1,4 @@
-#Drencom
+#Drencrom
 ## dc_quake
 This project is mostly just me messing around with Quake, trying to (re)learn map creation and tweak around with the engine.  Not sure where it'll go, but it's a good learning experience.
 ##Goals
