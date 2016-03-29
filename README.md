@@ -8,3 +8,4 @@ This project is mostly just me messing around with Quake, trying to (re)learn ma
 4. Import New Textures
 5. Make a New Weapon
 6. Make a New Enemy
+7. Make a Puzzle Room
