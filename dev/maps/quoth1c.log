@@ -4,70 +4,70 @@ Output file: quoth1c.bsp
 
 ---- LoadMapFile ----
 *** WARNING 06: No info_player_deathmatch entities in level
-         6436 faces
-         1089 brushes
-          233 entities
+         7228 faces
+         1219 brushes
+          240 entities
            19 unique texnames
            63 texinfo
 
 Opened WAD: D:/Games/GOG/Quake/id1/Q.wad
 Processing hull 0...
 ---- Brush_LoadEntity ----
-          937 brushes
+         1060 brushes
 ---- CSGFaces ----
-         5538 brushfaces
-         4602 csgfaces
-         4011 mergedfaces
+         6288 brushfaces
+         5190 csgfaces
+         4522 mergedfaces
 ---- SolidBSP ----
-         6396 split nodes
-         2771 solid leafs
-         3595 empty leafs
-           31 water leafs
-        10644 leaffaces
-        10111 nodefaces
+         7635 split nodes
+         3242 solid leafs
+         4229 empty leafs
+          165 water leafs
+        12419 leaffaces
+        11677 nodefaces
 ---- Portalize ----
-         3626 vis leafs
-         3626 vis clusters
-        11087 vis portals
+         4394 vis leafs
+         4394 vis clusters
+        13819 vis portals
 ---- FillOutside ----
-         1804 outleafs
+         2283 outleafs
 ---- MergeAll ----
-         2948 mergefaces
+         3178 mergefaces
 ---- SolidBSP ----
-         1804 split nodes
-          991 solid leafs
-          805 empty leafs
-            9 water leafs
-         4424 leaffaces
-         3693 nodefaces
+         1962 split nodes
+         1096 solid leafs
+          836 empty leafs
+           31 water leafs
+         4760 leaffaces
+         3965 nodefaces
 ---- Portalize ----
-          814 vis leafs
-          814 vis clusters
-         2389 vis portals
+          867 vis leafs
+          867 vis clusters
+         2416 vis portals
 ---- Tjunc ----
-         3806 world edges
-        13370 edge points
-         2868 edges added by tjunctions
+         4124 world edges
+        14215 edge points
+         3083 edges added by tjunctions
             0 faces added by tjunctions
 ---- MakeFaceEdges ----
 ---- GrowRegions ----
 Processing hull 1...
 Processing hull 2...
 ---- WriteBSPFile ----
-         1642 planes            32840
-         6133 vertexes          73596
-         2499 nodes             59976
+         1783 planes            35660
+         6460 vertexes          77520
+         2689 nodes             64536
            63 texinfo            2520
-         4617 faces             92340
-         5623 clipnodes         44984
-         1425 leafs             39900
-         5399 marksurfaces      10798
-        21204 surfedges         84816
-        10833 edges             43332
+         4931 faces             98620
+         5525 clipnodes         44200
+         1505 leafs             42140
+         5777 marksurfaces      11554
+        22631 surfedges         90524
+        11551 edges             46204
            26 textures         238396
               lightdata             0
               visdata               0
-              entdata           17585
+              entdata           17998
 
-1.160 seconds elapsed
-Peak memory usage: 31781871 (30.3M)
+1.340 seconds elapsed
+Peak memory usage: 33881673 (32.3M)
